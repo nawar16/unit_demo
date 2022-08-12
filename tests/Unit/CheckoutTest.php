@@ -5,9 +5,9 @@ namespace Tests\Unit;
 use PHPUnit\Framework\TestCase;
 use App\Services\CheckoutService;
 
-
 class CheckoutTest extends TestCase
 {
+    
     /**
      * A basic unit test example.
      *
