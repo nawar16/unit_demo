@@ -7,6 +7,7 @@ use App\Services\CheckoutService;
 
 class CheckoutTest extends TestCase
 {
+    
     /**
      * A basic unit test example.
      *
